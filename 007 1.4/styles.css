@@ -1,0 +1,15 @@
+/* Alexander Paryani */
+/* 04 APR 2024 */
+/* JS Template */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 600px;
+    margin: 25px auto; /* 25 pixels top/bottom and auto right/left */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
